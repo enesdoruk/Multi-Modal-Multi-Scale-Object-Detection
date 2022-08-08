@@ -1,0 +1,9 @@
+path: datasets 
+train: train/images  # train images (relative to 'path')  6471 images
+val: val/images  # val images (relative to 'path')  548 images
+
+# Classes
+nc: 4  # number of classes
+names: ['yaya', 'arac', 'uap', 'uai']
+
+
